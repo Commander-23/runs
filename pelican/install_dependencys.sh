@@ -12,8 +12,7 @@ sudo apt update
 ###########################################
 #       Install Pelican Requirements      #
 ###########################################
-sudo apt-get install -y 
-sudo apt-get install -y php8.4 php8.4-{gd,mysql,mbstring,bcmath,xml,curl,zip,intl,sqlite3,fpm} apache2 curl tar unzip
+sudo apt-get install -y php8.4 php8.4-{gd,mysql,mbstring,bcmath,xml,curl,zip,intl,sqlite3,fpm} nginx curl tar unzip
 
 
 ###########################################
